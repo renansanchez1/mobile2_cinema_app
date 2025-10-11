@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "titulo": "A Origem",
+    "descricao": "Um ladrão que invade os sonhos das pessoas deve realizar uma tarefa impossível: implantar uma ideia na mente de alguém.",
+    "preco": 28.50,
+    "categoria": "Ficção Científica",
+    "horario": "18:30",
+    "url_imagem": "https://picsum.photos/seed/filme1/400/400"
+  },
+  {
+    "id": 2,
+    "titulo": "Interestelar",
+    "descricao": "Um grupo de exploradores viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+    "preco": 30.00,
+    "categoria": "Ficção Científica",
+    "horario": "21:00",
+    "url_imagem": "https://picsum.photos/seed/filme2/400/400"
+  },
+  {
+    "id": 3,
+    "titulo": "O Cavaleiro das Trevas",
+    "descricao": "Batman enfrenta o Coringa, um criminoso caótico que desafia todos os seus limites e valores.",
+    "preco": 27.90,
+    "categoria": "Ação",
+    "horario": "20:15",
+    "url_imagem": "https://picsum.photos/seed/filme3/400/400"
+  },
+  {
+    "id": 4,
+    "titulo": "Gladiador",
+    "descricao": "Um general romano busca vingança após ser traído e ver sua família assassinada por um imperador corrupto.",
+    "preco": 25.00,
+    "categoria": "Drama Histórico",
+    "horario": "19:00",
+    "url_imagem": "https://picsum.photos/seed/filme4/400/400"
+  },
+  {
+    "id": 5,
+    "titulo": "O Lobo de Wall Street",
+    "descricao": "A ascensão e queda de Jordan Belfort, um corretor de ações envolvido em corrupção e fraudes no mercado financeiro.",
+    "preco": 26.50,
+    "categoria": "Biografia",
+    "horario": "22:00",
+    "url_imagem": "https://picsum.photos/seed/filme5/400/400"
+  },
+  {
+    "id": 6,
+    "titulo": "Avatar",
+    "descricao": "Um ex-fuzileiro é enviado ao planeta Pandora e se vê dividido entre seguir ordens e proteger o novo mundo que descobriu.",
+    "preco": 29.90,
+    "categoria": "Aventura",
+    "horario": "18:45",
+    "url_imagem": "https://picsum.photos/seed/filme6/400/400"
+  },
+  {
+    "id": 7,
+    "titulo": "Vingadores: Ultimato",
+    "descricao": "Os Vingadores se unem para reverter o estalo de Thanos e restaurar o equilíbrio do universo.",
+    "preco": 32.00,
+    "categoria": "Ação",
+    "horario": "20:45",
+    "url_imagem": "https://picsum.photos/seed/filme7/400/400"
+  },
+  {
+    "id": 8,
+    "titulo": "Parasita",
+    "descricao": "Uma família pobre se infiltra na casa de uma família rica, mas a convivência gera consequências imprevisíveis.",
+    "preco": 24.50,
+    "categoria": "Suspense",
+    "horario": "19:30",
+    "url_imagem": "https://picsum.photos/seed/filme8/400/400"
+  },
+  {
+    "id": 9,
+    "titulo": "Clube da Luta",
+    "descricao": "Um homem entediado pela vida corporativa encontra uma forma de libertação em um clube secreto de lutas.",
+    "preco": 25.00,
+    "categoria": "Drama",
+    "horario": "21:15",
+    "url_imagem": "https://picsum.photos/seed/filme9/400/400"
+  },
+  {
+    "id": 10,
+    "titulo": "Forrest Gump",
+    "descricao": "A história de um homem simples que, sem perceber, influencia diversos momentos importantes da história americana.",
+    "preco": 22.00,
+    "categoria": "Drama",
+    "horario": "17:00",
+    "url_imagem": "https://picsum.photos/seed/filme10/400/400"
+  },
+  {
+    "id": 11,
+    "titulo": "O Poderoso Chefão",
+    "descricao": "A saga da família Corleone, uma das mais poderosas famílias mafiosas dos Estados Unidos.",
+    "preco": 27.00,
+    "categoria": "Crime",
+    "horario": "19:45",
+    "url_imagem": "https://picsum.photos/seed/filme11/400/400"
+  },
+  {
+    "id": 12,
+    "titulo": "Homem-Aranha: Sem Volta para Casa",
+    "descricao": "Após sua identidade ser revelada, Peter Parker busca ajuda de Doutor Estranho, mas acaba abrindo o multiverso.",
+    "preco": 31.00,
+    "categoria": "Ação",
+    "horario": "20:30",
+    "url_imagem": "https://picsum.photos/seed/filme12/400/400"
+  },
+  {
+    "id": 13,
+    "titulo": "Duna",
+    "descricao": "Paul Atreides deve viajar ao planeta mais perigoso do universo para garantir o futuro de sua família e de seu povo.",
+    "preco": 29.00,
+    "categoria": "Ficção Científica",
+    "horario": "18:00",
+    "url_imagem": "https://picsum.photos/seed/filme13/400/400"
+  },
+  {
+    "id": 14,
+    "titulo": "O Resgate do Soldado Ryan",
+    "descricao": "Durante a Segunda Guerra Mundial, um grupo de soldados é enviado para resgatar um único homem atrás das linhas inimigas.",
+    "preco": 26.00,
+    "categoria": "Guerra",
+    "horario": "19:15",
+    "url_imagem": "https://picsum.photos/seed/filme14/400/400"
+  },
+  {
+    "id": 15,
+    "titulo": "Coringa",
+    "descricao": "A história de origem de Arthur Fleck, um comediante que se transforma em um dos maiores vilões de Gotham.",
+    "preco": 28.00,
+    "categoria": "Drama Psicológico",
+    "horario": "22:15",
+    "url_imagem": "https://picsum.photos/seed/filme15/400/400"
+  },
+  {
+    "id": 16,
+    "titulo": "Matrix",
+    "descricao": "Um hacker descobre que o mundo em que vive é uma simulação controlada por máquinas.",
+    "preco": 27.50,
+    "categoria": "Ficção Científica",
+    "horario": "20:00",
+    "url_imagem": "https://picsum.photos/seed/filme16/400/400"
+  },
+  {
+    "id": 17,
+    "titulo": "Jurassic Park",
+    "descricao": "Um parque de diversões com dinossauros clonados sai do controle quando as criaturas escapam.",
+    "preco": 25.00,
+    "categoria": "Aventura",
+    "horario": "17:45",
+    "url_imagem": "https://picsum.photos/seed/filme17/400/400"
+  },
+  {
+    "id": 18,
+    "titulo": "Titanic",
+    "descricao": "Um romance proibido nasce a bordo do navio mais famoso de todos os tempos.",
+    "preco": 23.00,
+    "categoria": "Romance",
+    "horario": "18:15",
+    "url_imagem": "https://picsum.photos/seed/filme18/400/400"
+  },
+  {
+    "id": 19,
+    "titulo": "Pantera Negra",
+    "descricao": "T’Challa retorna a Wakanda para assumir o trono e proteger seu povo como o Pantera Negra.",
+    "preco": 29.50,
+    "categoria": "Ação",
+    "horario": "21:45",
+    "url_imagem": "https://picsum.photos/seed/filme19/400/400"
+  },
+  {
+    "id": 20,
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "descricao": "Um grupo improvável embarca em uma jornada épica para destruir o Um Anel.",
+    "preco": 30.00,
+    "categoria": "Fantasia",
+    "horario": "19:30",
+    "url_imagem": "https://picsum.photos/seed/filme20/400/400"
+  },
+  {
+    "id": 21,
+    "titulo": "Homem de Ferro",
+    "descricao": "Tony Stark cria uma armadura tecnológica para se tornar o herói Homem de Ferro.",
+    "preco": 27.00,
+    "categoria": "Ação",
+    "horario": "18:00",
+    "url_imagem": "https://picsum.photos/seed/filme21/400/400"
+  },
+  {
+    "id": 22,
+    "titulo": "Shrek",
+    "descricao": "Um ogro parte em uma jornada para resgatar uma princesa e recuperar sua paz.",
+    "preco": 20.00,
+    "categoria": "Animação",
+    "horario": "16:30",
+    "url_imagem": "https://picsum.photos/seed/filme22/400/400"
+  },
+  {
+    "id": 23,
+    "titulo": "Toy Story",
+    "descricao": "Os brinquedos de um garoto ganham vida quando os humanos não estão por perto.",
+    "preco": 19.50,
+    "categoria": "Animação",
+    "horario": "15:45",
+    "url_imagem": "https://picsum.photos/seed/filme23/400/400"
+  },
+  {
+    "id": 24,
+    "titulo": "O Rei Leão",
+    "descricao": "Simba deve aceitar seu destino como rei após a morte trágica de seu pai, Mufasa.",
+    "preco": 21.00,
+    "categoria": "Animação",
+    "horario": "17:30",
+    "url_imagem": "https://picsum.photos/seed/filme24/400/400"
+  },
+  {
+    "id": 25,
+    "titulo": "Piratas do Caribe",
+    "descricao": "O pirata Jack Sparrow embarca em uma aventura em busca de um tesouro lendário.",
+    "preco": 25.00,
+    "categoria": "Aventura",
+    "horario": "20:15",
+    "url_imagem": "https://picsum.photos/seed/filme25/400/400"
+  },
+  {
+    "id": 26,
+    "titulo": "Homem-Formiga",
+    "descricao": "Um ladrão reformado deve se tornar o herói capaz de reduzir de tamanho para salvar o mundo.",
+    "preco": 26.00,
+    "categoria": "Ação",
+    "horario": "18:45",
+    "url_imagem": "https://picsum.photos/seed/filme26/400/400"
+  },
+  {
+    "id": 27,
+    "titulo": "Guardiões da Galáxia",
+    "descricao": "Um grupo de desajustados intergalácticos deve se unir para salvar o universo.",
+    "preco": 28.00,
+    "categoria": "Aventura",
+    "horario": "21:00",
+    "url_imagem": "https://picsum.photos/seed/filme27/400/400"
+  },
+  {
+    "id": 28,
+    "titulo": "Divertida Mente",
+    "descricao": "As emoções de uma menina ganham vida e mostram como é crescer e lidar com mudanças.",
+    "preco": 22.50,
+    "categoria": "Animação",
+    "horario": "16:00",
+    "url_imagem": "https://picsum.photos/seed/filme28/400/400"
+  },
+  {
+    "id": 29,
+    "titulo": "O Exterminador do Futuro",
+    "descricao": "Um ciborgue é enviado do futuro para eliminar o líder de uma resistência humana.",
+    "preco": 27.00,
+    "categoria": "Ação",
+    "horario": "19:15",
+    "url_imagem": "https://picsum.photos/seed/filme29/400/400"
+  },
+  {
+    "id": 30,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "descricao": "Um jovem descobre ser um bruxo e ingressa em Hogwarts, uma escola de magia e feitiçaria.",
+    "preco": 24.00,
+    "categoria": "Fantasia",
+    "horario": "17:45",
+    "url_imagem": "https://picsum.photos/seed/filme30/400/400"
+  }
+]
